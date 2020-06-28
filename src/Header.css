@@ -1,0 +1,9 @@
+ul{
+    list-style: none;
+    display: flex;
+}
+
+ul li a{
+    display: block;
+    padding: 10px;
+}
