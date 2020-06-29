@@ -1,4 +1,9 @@
-# About this repo
+# About this project
+
+This project is a **SPA** (Single Page Application) "to buy list" made with **React JS**, **React Router** and **MongoDB** 
+(this repository only contains react files for Database connection and **API** visit the Flask app repo [here](https://github.com/SakugaCoder/ToBuyApp-FlaskAPP-MongoDB)).
+
+![Preview](https://github.com/SakugaCoder/ThingsToBuy-ReactJS/blob/master/preview.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
